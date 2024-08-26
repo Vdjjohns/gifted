@@ -11,22 +11,22 @@
     "MODE": {
       "description": "Put Mode either public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
      "OWNER_NAME": {
       "description": "Put the name of Bot Owner",
       "required": true,
-      "value": "GIFTED TECH"
+      "value": "VDJ JOHNS"
     },
     "OWNER_NUMBER": {
       "description": "Put Bot Owner Numbers",
       "required": true,
-      "value": "254110853827"
+      "value": "254768390412"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "Put your SESSION_ID.  Must start with Gifted~",
@@ -36,7 +36,7 @@
      "NOT_ALLOW": {
       "description": "Put value true to disable bot in pm during public mode.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "WELCOME": {
       "description": "Put true or false to enableand disable group welcoming and goodbye messages",
@@ -74,14 +74,14 @@
       "value": "false"
     },
     "AUTO_BLOCK": {
-      "description": "Put true if you want bot to auto block only 212 numbers",
+      "description": "Put true if you want bot to auto block only 263 numbers",
       "required": false,
       "value": "true"
     },
     "AUTO_REACT": {
       "description": "Put value to true or false",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "HEROKU_APP_NAME": {
       "description": "Put your heroku app name as entered above.",
